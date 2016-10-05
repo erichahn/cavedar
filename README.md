@@ -1,7 +1,8 @@
 # cavedar
-Mobile LIDAR cave mapping
+Mobile LIDAR cave mapping (Probably needs a new name, suggestions welcome)
 
-Probably needs a new name.
+![Alt text](/cad/renderings/draft.png?raw=true "Preliminary Idea")
 
-* Velodyne VLP-16 <-> RPi 3
+
+* Velodyne VLP-16 <-> Interface Box <-> RPi 3
 * Records LIDAR data for post processing to construct 3D maps of caves to better understand the world below us.
