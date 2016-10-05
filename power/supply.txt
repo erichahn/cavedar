@@ -1,0 +1,7 @@
+Aukey QC 2.0 150000 mAh
+	12 V through 1.5V on d+ and d-
+		1.2 Amps
+		14.4 Watts
+	5v through usb port 2
+		1 Amp - Needs a little more
+		5 Watts, needs up to 10 at times

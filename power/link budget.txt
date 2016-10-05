@@ -1,0 +1,5 @@
+  LIDAR 		- 12V		8W
+X Interface	- 9V-18V		12W
+X RPi3  		- 5V		5W
+Total					~20 Watts
+					25 Watts for surges
