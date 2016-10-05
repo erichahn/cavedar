@@ -1,7 +1,7 @@
 # cavedar
 Mobile LIDAR cave mapping (Probably needs a new name, suggestions welcome)
 
-![Alt text](/cad/renderings/draft.png?raw=true "Preliminary Idea")
+![Alt text](/cad/renderings/real draft.JPG?raw=true "Preliminary Idea")
 
 
 * Velodyne VLP-16 <-> Interface Box <-> RPi 3
